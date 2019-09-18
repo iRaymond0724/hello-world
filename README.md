@@ -1,3 +1,3 @@
 # hello-world
 
-learn GitH
+learn GitHub
